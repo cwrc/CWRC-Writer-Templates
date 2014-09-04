@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://cwrc.ca/schema/events.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <EVENTS>
-<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#">
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#">
 <rdf:Description rdf:about="http://localhost:8080/editor/documents/null">
-	<w:mode>0</w:mode>
+	<cw:mode>0</cw:mode>
 </rdf:Description>
 </rdf:RDF>
 	<ORLANDOHEADER TYPE="TEXT">
@@ -12,7 +12,7 @@
 				<DOCTITLE>Sample Document Title</DOCTITLE>
 			</TITLESTMT>
 			<PUBLICATIONSTMT>
-				<P>Created from original research by members of CWRC/CSÉC unless otherwise
+				<P>Created from original research by members of CWRC/CSÃ‰C unless otherwise
 					noted.</P>
 			</PUBLICATIONSTMT>
 			<SOURCEDESC/>
@@ -52,9 +52,9 @@
 							<TITLE TITLETYPE="MONOGRAPHIC">The Golden Ass</TITLE> by
 							<NAME>Apuleius</NAME>. Its outlines are legible in several tales by
 							<NAME>Marie-Catherine d'Aulnoy</NAME>. It became a drama by
-							<NAME>Stéphanie-Félicité de Genlis </NAME> in 1785 and an opera by <NAME
+							<NAME>StÃ©phanie-FÃ©licitÃ© de Genlis </NAME> in 1785 and an opera by <NAME
 							STANDARD="Marmontel, Jean-Francois">Marmontel</NAME> and <NAME
-							STANDARD="Grtry, Andr">Grétry</NAME> in 1788.<BIBCITS>
+							STANDARD="Grtry, Andr">GrÃ©try</NAME> in 1788.<BIBCITS>
 							<BIBCIT PLACEHOLDER="Zipe 128-9" DBREF="65785">128-9</BIBCIT>
 						</BIBCITS></P>
 				</SHORTPROSE>

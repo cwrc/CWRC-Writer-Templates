@@ -186,7 +186,7 @@
         </DIV1>
         <WORKSCITED>
             <SOURCE> Unless otherwise noted, all information is from
-                <TITLE>[InsertSourceTitle]</TITLE>. </SOURCE>
+                <TITLE TITLETYPE="MONOGRAPHIC">[InsertSourceTitle]</TITLE>. </SOURCE>
             <SOURCE>[InsertWorkCited]</SOURCE>
         </WORKSCITED>
     </DIV0>

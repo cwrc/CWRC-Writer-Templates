@@ -16,7 +16,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#probable"/>
 			<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":5,"name":"Bergen, Norway","repository":"geonames"}</cw:cwrcInfo>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"probable","ref":"5"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/d580532a-63c1-4183-9b47-9bab66ba7f7d">
 			<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
@@ -68,7 +68,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
 			<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":0,"name":"Stockholm, Sweden","repository":"geonames"}</cw:cwrcInfo>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/d0e30f71-21bf-4ec7-8c6c-2a651b2fb361">
 			<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
@@ -94,7 +94,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"attributes":{}}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite","when":"1935-10-21"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/7150bbdd-a44c-4dc8-969b-e7e78a550ff1">
 			<xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1935-10-21</xsd:date>
@@ -123,7 +123,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
 			<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":0,"name":"Oslo, Norway","repository":"geonames"}</cw:cwrcInfo>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/place/127831d9-24dc-4184-9461-fdd50f7763cb">
 			<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
@@ -150,7 +150,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#probable"/>
 			<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"279399399","name":"Russell, Patricia","repository":"viaf"}</cw:cwrcInfo>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"attributes":{}}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"probable","ref":"279399399"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/person/194afaa3-544f-4454-9ee4-fc8e8845dd83">
 			<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
@@ -177,7 +177,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
 			<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"http://viaf.org/viaf/36924137","name":"Russell, Bertrand","repository":"viaf"}</cw:cwrcInfo>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"attributes":{},"type":"real"}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite","type":"real","ref":"http://viaf.org/viaf/36924137"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/person/4f4a3169-2a18-4a15-88cb-f5cb5881a4a6">
 			<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>

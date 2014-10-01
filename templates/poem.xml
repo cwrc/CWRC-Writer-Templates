@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#">
 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:time="http://www.w3.org/2006/time#" xmlns:cnt="http://www.w3.org/2011/content#">
 		<rdf:Description rdf:about="http://localhost:8080/editor/documents/null">
@@ -16,7 +16,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
 			<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"http://viaf.org/viaf/78272387","name":"McLaren, Floris Clark","repository":"viaf"}</cw:cwrcInfo>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"attributes":{},"type":"real"}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite", "type":"real","ref":"http://viaf.org/viaf/78272387"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/person/d3402880-7759-4f7b-a68e-acdcc203f336">
 			<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
@@ -42,7 +42,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"attributes":{}}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite","when":"1936"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/a5fc91f1-8ff5-4980-95e8-b43de8b3c640">
 			<xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1936</xsd:date>
@@ -68,6 +68,7 @@
 			<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2014-09-10T21:36:30.437Z</oa:serializedAt>
 			<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"http://cufts2.lib.sfu.ca/CRDB4/BVAS/resource/5724"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/target/f2d8030b-c7d9-4031-ba05-dafd79639b91">
 			<oa:hasSource xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/doc/ebb67621-e54b-4c32-9587-7d34152471f3"/>

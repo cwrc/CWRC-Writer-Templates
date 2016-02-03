@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/css" href="http://cwrc.ca/templates/css/tei.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#">
 	<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:time="http://www.w3.org/2006/time#" xmlns:cnt="http://www.w3.org/2011/content#" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:dcterms="http://purl.org/dc/terms/">
 		<rdf:Description rdf:about="http://localhost:8080/editor/documents/null">
@@ -15,7 +17,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"attributes":{}}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"definite","when":"1934"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/date/ef241f93-b90b-478c-aee8-c39989f532e8">
 			<xsd:date xmlns:xsd="http://www.w3.org/2001/XMLSchema#">1934</xsd:date>
@@ -63,7 +65,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#reasonable"/>
 			<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"http://viaf.org/viaf/151283596","name":"Chapman and Hall","repository":"viaf"}</cw:cwrcInfo>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"attributes":{}}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"cert":"reasonably certain","ref":"http://viaf.org/viaf/151283596"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/org/ddb98767-a075-43ef-ba20-4ab93c4a57b8">
 			<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
@@ -115,7 +117,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
 			<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"http://viaf.org/viaf/78272387","name":"McLaren, Floris Clark","repository":"viaf"}</cw:cwrcInfo>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"attributes":{},"type":"real"}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"type":"real","ref":"http://viaf.org/viaf/78272387"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/person/8101a0f5-19dd-4338-81cb-88c4ff417f14">
 			<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
@@ -141,7 +143,7 @@
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 			<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 			<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"id":"http://viaf.org/viaf/179269842","name":"","repository":"viaf"}</cw:cwrcInfo>
-			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{}</cw:cwrcAttributes>
+			<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/179269842","level":"m"}</cw:cwrcAttributes>
 		</rdf:Description>
 		<rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/title/33cd7c90-9587-4321-ac42-c861b3b4a786">
 			<cw:pubType xmlns:cw="http://cwrc.ca/ns/cw#">m</cw:pubType>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://cwrc.ca/schemas/orlando_writing.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://cwrc.ca/schemas/orlando_writing_v2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://cwrc.ca/templates/css/orlando.css"?>
 
 <WRITING PERSON="WRITER" SEX="FEMALE">
@@ -349,7 +349,7 @@
                     </CHRONSTRUCT>
                     <SHORTPROSE>
                         <P>
-                            <RRECOGNITIONS>PJ did not meet Roberts in person until the <DATESTRUCT CERTAINTY="BY" VALUE="1895-08-"><SEASON>summer</SEASON> of
+                            <RRECOGNITIONS>PJ did not meet Roberts in person until the <DATESTRUCT CERTAINTY="BY" VALUE="1895-08"><SEASON>summer</SEASON> of
                                         <YEAR>1895</YEAR></DATESTRUCT>, when he presented her with a
                                 manuscript copy of his book <TITLE TITLETYPE="MONOGRAPHIC">Songs of
                                     the Common Day</TITLE> and the pen he used to write
@@ -436,7 +436,7 @@
                         </BIBCITS>
                     </CHRONSTRUCT>
                     <SHORTPROSE>
-                        <P><PPERIODICALPUBLICATION>It re-appeared later in the <TITLE TITLETYPE="JOURNAL">Athenæum</TITLE>.</PPERIODICALPUBLICATION> <PINFLUENCESHER INFLUENCETYPE="FAMILIAL">PJ was particularly annoyed
+                        <P><PPERIODICALPUBLICATION>It re-appeared later in the <TITLE TITLETYPE="JOURNAL">Athenum</TITLE>.</PPERIODICALPUBLICATION> <PINFLUENCESHER INFLUENCETYPE="FAMILIAL">PJ was particularly annoyed
                                 that her own relation had responded negatively to her
                                 work.</PINFLUENCESHER> Howells allegedly boasted of his connection
                             to the Johnson family (as exotics) while he was the US consul in Venice,
@@ -483,7 +483,7 @@
                                     consciousness.</PLITERARYSCHOOLS><BIBCITS><BIBCIT PLACEHOLDER="Gerson and Strong-Boag 100-1" DBREF="9599">100-1</BIBCIT></BIBCITS></QUOTE></P>
                     </SHORTPROSE>
                     <CHRONSTRUCT RESP="KDC" CHRONCOLUMN="WRITINGCLIMATE" RELEVANCE="PERIOD">
-                        <DATE VALUE="1889--" CERTAINTY="C">1889</DATE>
+                        <DATE VALUE="1889" CERTAINTY="C">1889</DATE>
                         <CHRONPROSE>
                             <RRECOGNITIONS><PANTHOLOGIZATION>Two of PJ's <TGENRE GENRENAME="POETRY">poems</TGENRE> were chosen for the
                                     influential Canadian anthology <TITLE TITLETYPE="MONOGRAPHIC">Songs of the <PLACE><GEOG REG="Canada">Great
@@ -539,7 +539,7 @@
                                     to dress that night in <SOCALLED>Indian togs</SOCALLED> while
                                     many others, including newspaper reports of the time, remember
                                     her in a simple grey gown. She did not begin wearing native
-                                    clothing until the <DATE VALUE="1893-11-" CERTAINTY="BY">fall of
+                                    clothing until the <DATE VALUE="1893-11" CERTAINTY="BY">fall of
                                         1893</DATE>.</P></SCHOLARNOTE> Her success was such that
                             follow-up recitals were scheduled for the next week and featured a new
                             work: <TITLE TITLETYPE="ANALYTIC">The Song My Paddle
@@ -560,7 +560,7 @@
                 </RECEPTION>
                 <RECEPTION>
                     <CHRONSTRUCT RESP="KDC" CHRONCOLUMN="WRITINGCLIMATE" RELEVANCE="DECADE">
-                        <DATE VALUE="1894-08-" CERTAINTY="BY">By August 1894</DATE>
+                        <DATE VALUE="1894-08" CERTAINTY="BY">By August 1894</DATE>
                         <CHRONPROSE>
                             <RRESPONSES RESPONSETYPE="INITIAL" FORMALITY="FORMAL">PJ's recitals
                                 were noticed in the <TITLE TITLETYPE="JOURNAL">New York
@@ -658,15 +658,15 @@
                     <SHORTPROSE>
                         <P>
                             <RRESPONSES RESPONSETYPE="INITIAL" FORMALITY="FORMAL">Reviews for this
-                                work were kind in Canada—<TITLE TITLETYPE="JOURNAL">The
-                                    Week</TITLE> wrote glowing comments, for example—but mixed
+                                work were kind in Canada<TITLE TITLETYPE="JOURNAL">The
+                                    Week</TITLE> wrote glowing comments, for examplebut mixed
                                 in Britain. A <TITLE TITLETYPE="JOURNAL" REG="Guardian, The">Guardian</TITLE> reviewer, who seemingly missed the point that
                                 PJ was half-Mohawk, suggested that <QUOTE DIRECT="Y">the idea of
                                     posing as an Indian bard cannot be counted among her happiest
                                     inspirations.</QUOTE><BIBCITS><BIBCIT PLACEHOLDER="Keller 101-2" DBREF="9598" QTDIN="QTDINYES">101-2</BIBCIT></BIBCITS></RRESPONSES>
                         </P>
                         <P>PJ later mused philosophically about rejection and praise: <QUOTE DIRECT="Y"><TMOTIF MOTIFNAME="works (literary) as children">[p]oems
-                                    are our brain children</TMOTIF>—we love them too much to
+                                    are our brain children</TMOTIF>we love them too much to
                                 have them treated badly. Then, too, what will please one critic will
                                 not, with his line of thought, please
                                     another.</QUOTE><BIBCITS><BIBCIT PLACEHOLDER="Keller 60" DBREF="9598" QTDIN="QTDINYES">60</BIBCIT></BIBCITS></P>
@@ -963,7 +963,7 @@
                                     sides.</TPLOT><BIBCITS><BIBCIT PLACEHOLDER="Gerson and Strong-Boag 197" DBREF="9599">197</BIBCIT></BIBCITS></P>
                     </SHORTPROSE>
                     <CHRONSTRUCT RESP="KDC" CHRONCOLUMN="WRITINGCLIMATE" RELEVANCE="PERIOD">
-                        <DATE VALUE="1913-03-" CERTAINTY="AFTER">1913</DATE>
+                        <DATE VALUE="1913-03" CERTAINTY="AFTER">1913</DATE>
                         <CHRONPROSE>The <ORGNAME>Canadian Women's Press Club</ORGNAME> issued
                             two posthumous collections of stories by PJ: <TITLE TITLETYPE="MONOGRAPHIC">The Shagganappi</TITLE> (reprinted from
                                 <TITLE TITLETYPE="JOURNAL">The Boys' World</TITLE>) and <TITLE TITLETYPE="MONOGRAPHIC">The Moccasin Maker</TITLE> (from <TITLE TITLETYPE="JOURNAL">Mother's Magazine</TITLE>).</CHRONPROSE>
@@ -984,7 +984,7 @@
                             <PSUBMISSIONSREJECTIONS> The editor of <TITLE TITLETYPE="JOURNAL">Mother's Magazine</TITLE> solicited a <QUOTE DIRECT="Y">Dominion Day <TTHEMETOPIC>Mother's
                                     Story</TTHEMETOPIC></QUOTE> from PJ, <PEARNINGS>and paid her
                                     $17.64 for <TITLE TITLETYPE="ANALYTIC">Her
-                                        Dominion—A Story of 1867, and
+                                        DominionA Story of 1867, and
                                             <TTHEMETOPIC>Canada's
                                         Confederation</TTHEMETOPIC></TITLE></PEARNINGS>.</PSUBMISSIONSREJECTIONS>
                         </CHRONPROSE>
@@ -1004,7 +1004,7 @@
                 </TEXTUALFEATURES>
                 <PRODUCTION>
                     <SHORTPROSE>
-                        <P>For this market PJ prepared not only short stories but non-fiction. <DATE VALUE="1908-01-" CERTAINTY="AFTER">From January 1908</DATE> she
+                        <P>For this market PJ prepared not only short stories but non-fiction. <DATE VALUE="1908-01" CERTAINTY="AFTER">From January 1908</DATE> she
                             published a series of articles in <TITLE TITLETYPE="JOURNAL">Mother's Magazine</TITLE> on topics of interest to
                                     mothers.<BIBCITS><BIBCIT PLACEHOLDER="Keller 227" DBREF="9598">227</BIBCIT></BIBCITS></P>
                     </SHORTPROSE>
@@ -1177,12 +1177,12 @@
                 <TEXTSCOPE DBREF="10482" PLACEHOLDER="PJ, Legends of Vancouver, 1911"/>
                 <PRODUCTION>
                     <CHRONSTRUCT RESP="KDC" CHRONCOLUMN="WRITINGCLIMATE" RELEVANCE="DECADE">
-                        <DATE VALUE="1909-01-">January 1909</DATE>
+                        <DATE VALUE="1909-01">January 1909</DATE>
                         <CHRONPROSE>
                             <TINTERTEXTUALITY INTERTEXTTYPE="ADAPTATION-UPDATE">
                                 <PPERIODICALPUBLICATION>PJ published in <TITLE TITLETYPE="JOURNAL">Mother's Magazine</TITLE> a story based on the
                                     Squamish <TGENRE GENRENAME="LEGENDFOLKTALE">legends</TGENRE>
-                                    told to her by <NAME STANDARD="Su-à-pu-luck">Chief Joe
+                                    told to her by <NAME STANDARD="Su--pu-luck">Chief Joe
                                         Capilano</NAME>; many more followed in
                                     1910.</PPERIODICALPUBLICATION>
                             </TINTERTEXTUALITY>
@@ -1216,7 +1216,7 @@
                                 cancer was sending shooting pains down her arm, <TITLE TITLETYPE="JOURNAL">Vancouver Province</TITLE> editor
                                     <NAME>Lionel Makovski</NAME> transcribed her stories as she
                                 dictated them from her couch.</PMATERIALCONDITIONS> In this way, the
-                            legends continued to find their way into print during the <DATE VALUE="1910-07-" CERTAINTY="C">summer of
+                            legends continued to find their way into print during the <DATE VALUE="1910-07" CERTAINTY="C">summer of
                                     1910</DATE>.<BIBCITS><BIBCIT PLACEHOLDER="Keller 251-2" DBREF="9598">251-2</BIBCIT></BIBCITS></P>
                         <P><PMODEOFPUBLICATION PUBLICATIONMODE="PRIVATELYPRINTED">Sensing that she
                                 needed money, PJ's friends devised a scheme to raise funds and
@@ -1229,7 +1229,7 @@
                             reading poetry.</P>
                     </SHORTPROSE>
                     <CHRONSTRUCT RESP="SIB" CHRONCOLUMN="WRITINGCLIMATE" RELEVANCE="SELECTIVE">
-                        <DATE VALUE="1911-09-">September 1911</DATE>
+                        <DATE VALUE="1911-09">September 1911</DATE>
                         <CHRONPROSE>PJ's controversial versions of Capilano <TGENRE GENRENAME="LEGENDFOLKTALE">legends</TGENRE> were published as <TITLE TITLETYPE="MONOGRAPHIC">Legends of Vancouver</TITLE>, not as she
                             wished under the title <TITLE TITLETYPE="UNPUBLISHED" REG="Legends of Vancouver">Legends of the
                             Capilanos</TITLE>.</CHRONPROSE>
@@ -1298,7 +1298,7 @@
                             <RRESPONSES RESPONSETYPE="RE-EVALUATION" FORMALITY="FORMAL" GENDEREDRESPONSE="GENDEREDYES">
                                 <RSHEINFLUENCED>On the other hand, Mohawk writer <NAME>Beth
                                         Brant</NAME> claims PJ as the originator of <QUOTE DIRECT="Y">a movement that has proved unstoppable in its
-                                        momentum—the movement of First Nations women to write
+                                        momentumthe movement of First Nations women to write
                                         down our stories.</QUOTE><BIBCITS><BIBCIT PLACEHOLDER="Gerson and Strong-Boag 134" DBREF="9599" QTDIN="QTDINYES">134</BIBCIT><BIBCIT PLACEHOLDER="Gerson and Strong-Boag 131,134" DBREF="9599">131</BIBCIT></BIBCITS></RSHEINFLUENCED>
                             </RRESPONSES>
                         </P>

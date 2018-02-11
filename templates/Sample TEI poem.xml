@@ -85,7 +85,7 @@
 		<body>
 			<div type="poem" subtype="terzarima">
 				<head type="poem">Political Meeting (For <persName annotationId="ent_88" cert="reasonably certain" ref="42172560">Camillien Houde</persName>)</head>
-				<byline>by <persName annotationId="ent_260" ref="http://viaf.org/viaf/59208470/" cert="definite" type="real">P. K. Page</persName></byline>
+				<docAuthor>by <persName annotationId="ent_260" ref="http://viaf.org/viaf/59208470/" cert="definite" type="real">P. K. Page</persName></docAuthor>
 				<lg>
 					<l>On the school platform, draping the folding seats,</l><l>they wait the chairman's praise and glass of water.</l><l>Upon the wall the agonized Y initials their faith.</l>
 				</lg>

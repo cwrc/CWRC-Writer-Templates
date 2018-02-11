@@ -111,8 +111,9 @@
 				</lg>
 			</div>
 			<div type="poem">
-				<head type="poem">Glimpse Sample Poem <persName annotationId="ent_103" cert="definite" type="real" ref="http://viaf.org/viaf/78272387">Floris Clark McLaren</persName>
-				</head>
+				<head type="poem">Glimpse </head>
+				<byline>Sample Poem<byline>
+				<docAuthor><persName annotationId="ent_103" cert="definite" type="real" ref="http://viaf.org/viaf/78272387">Floris Clark McLaren</persName></docAuthor>
 				<lg>
 					<l>Against the blue of spruce, and the gray</l><l>Of bare-boughed poplar, suddenly</l><l>As though a snowdrift burst in scattering fragments,</l><l>Ptarmigan rise with heavy whir of wings,</l><l>Show for a moment clear among the branches,</l><l>Then disappear,</l><l>White lost on white again.</l>
 				</lg>

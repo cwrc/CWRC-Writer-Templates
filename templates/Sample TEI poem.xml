@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://cwrc.ca/schemas/cwrc_tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="https://cwrc.ca/templates/css/tei.css"?>
-<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
-<rdf:Description rdf:about="https://dev-cwrc-writer.cwrc.ca//editor/documents/null">
+<TEI xmlns:xi="http://www.w3.org/2001/XInclude" xmlns="http://www.tei-c.org/ns/1.0" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:w="http://cwrctc.artsrn.ualberta.ca/#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cw="http://cwrc.ca/ns/cw#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+<rdf:Description rdf:about="https://cwrc-writer.cwrc.ca//editor/documents/null">
 	<cw:mode>0</cw:mode>
 	<cw:allowOverlap>false</cw:allowOverlap>
 </rdf:Description>
@@ -10,9 +10,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/1e7c9ad5-358f-4c7f-90e3-0515a05b5558"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/person/56c9f7fe-d0ef-4c18-9563-e26272f9ee29"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T17:09:16.887Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T20:41:21.552Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T17:09:16.887Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T20:41:21.552Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
@@ -36,16 +36,16 @@
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://id.cwrc.ca/annotation/f18bc81c-28ef-4a31-94f6-c40326f078f9">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/target/ecbe1288-d75c-46e6-889b-4d4e07b91da7"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://viaf.org/viaf/59208470/"/>
-	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://id.cwrc.ca/user/a6bb5bcb-5c69-4a9e-b708-3a31a153cfb1"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T17:09:16.888Z</oa:annotatedAt>
+	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T20:41:21.553Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-11T17:09:16.888Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-02-20T20:41:21.553Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#tagging"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#identifying"/>
 	<cw:hasCertainty xmlns:cw="http://cwrc.ca/ns/cw#" rdf:resource="http://cwrc.ca/ns/cw#definite"/>
-	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/59208470/","uri":"http://viaf.org/viaf/59208470/","uriForDisplay":"https://viaf.org/viaf/59208470/","name":"Page, P. K. (Patricia Kathleen), 1916-2010","repository":"VIAF","originalQueryString":"P. K. Page"}</cw:cwrcInfo>
-	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/59208470/","cert":"definite","type":"real"}</cw:cwrcAttributes>
+	<cw:cwrcInfo xmlns:cw="http://cwrc.ca/ns/cw#">{"nameType":"Personal","id":"http://viaf.org/viaf/110146998373218941066/","uri":"http://viaf.org/viaf/110146998373218941066/","uriForDisplay":"https://viaf.org/viaf/110146998373218941066/","name":"Klein, A. M. (Abraham Moses)","repository":"VIAF","originalQueryString":"A.M. Klein"}</cw:cwrcInfo>
+	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"ref":"http://viaf.org/viaf/110146998373218941066/","cert":"definite","type":"real"}</cw:cwrcAttributes>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="http://viaf.org/viaf/59208470/">
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#SemanticTag"/>
@@ -61,6 +61,7 @@
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
+
 
 	
 	<teiHeader>
@@ -85,7 +86,7 @@
 		<body>
 			<div type="poem" subtype="terzarima">
 				<head type="poem">Political Meeting (For <persName annotationId="ent_88" cert="reasonably certain" ref="42172560">Camillien Houde</persName>)</head>
-				<docAuthor>by <persName annotationId="ent_260" ref="http://viaf.org/viaf/59208470/" cert="definite" type="real">P. K. Page</persName></docAuthor>
+				<docAuthor>by <persName annotationId="ent_260" ref="http://viaf.org/viaf/110146998373218941066/" cert="definite" type="real">A.M. Klein</persName></docAuthor>
 				<lg>
 					<l>On the school platform, draping the folding seats,</l><l>they wait the chairman's praise and glass of water.</l><l>Upon the wall the agonized Y initials their faith.</l>
 				</lg>
